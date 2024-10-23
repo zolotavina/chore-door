@@ -1,6 +1,6 @@
 # Chore Door
 
-Chore-Door is a fun and simple door-clicking game where players must try to avoid the hidden chore-bot behind one of three doors. The player selects doors one at a time, aiming to open all doors without uncovering the robot. Behind each door could be the chore-bot or a relaxing scene, and the goal is to outsmart the random placement of the chore-bot.
+Chore-Door is a fun and simple game where players must try to avoid the hidden chore-bot behind one of three doors. The player selects doors one at a time, aiming to open all doors without uncovering the robot. Behind each door could be the chore-bot or a relaxing scene, and the goal is to outsmart the random placement of the chore-bot.
 
 The game continues until the player wins by opening all safe doors or loses by uncovering the chore-bot. After each game, players have the option to play again with a new randomized door arrangement.
 
